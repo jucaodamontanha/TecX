@@ -8,14 +8,14 @@ body{
 .box{
     color: white;
     position: absolute;
-    top: 50%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%,-50%);
     background-color: rgba(0, 0, 0, 0.6);
     padding: 25px;
     border-radius: 15px;
     width: 50%;
-    margin-top: 90px;
+    margin-top: 20px;
 
 }
 fieldset{
